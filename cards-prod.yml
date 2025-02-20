@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to pbank cards related product APIs "
+  message: "Welcome to pbank cards related production APIs "
   contactDetails:
     name: "Bhuvaneshwar Kumar - Product Owner"
     email: "{cipher}564d971e7e91323fa02dce3b5eabcaca0aecd08b624ca525cb9065c2968543d3c9cec3569a4864466b2f3a4cad57ca5d"
